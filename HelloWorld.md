@@ -1,5 +1,3 @@
-<<<<<<< HEAD
-##
-=======
-##
->>>>>>> FETCH_HEAD
+## This is a markdown file
+
+
